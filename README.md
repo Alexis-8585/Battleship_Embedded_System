@@ -16,4 +16,4 @@ The way we chose to develop the game logic was by implementing a state machine o
 
 Used Object Oriented Programing to implement the game board and boat object. 
 
-![Design](Battleship\ design.png)
+![Design](<Battleship design.png>)
