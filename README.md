@@ -17,3 +17,10 @@ The way we chose to develop the game logic was by implementing a state machine o
 Used Object Oriented Programing to implement the game board and boat object. 
 
 ![Design](<Battleship design.png>)
+
+
+## Depencencies
+To run this code, the following libraries need to be added within the Arduino IDE:
+- Adafruit GFX Library 
+- Adafruit NeoMatrix
+- Adafruit NeoPixel
